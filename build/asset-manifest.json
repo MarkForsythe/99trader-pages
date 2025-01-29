@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/99trader-pages/static/css/main.52a55932.css",
-    "main.js": "/99trader-pages/static/js/main.de12ea3f.js",
-    "static/js/488.338307bf.chunk.js": "/99trader-pages/static/js/488.338307bf.chunk.js",
-    "index.html": "/99trader-pages/index.html",
-    "main.52a55932.css.map": "/99trader-pages/static/css/main.52a55932.css.map",
-    "main.de12ea3f.js.map": "/99trader-pages/static/js/main.de12ea3f.js.map",
-    "488.338307bf.chunk.js.map": "/99trader-pages/static/js/488.338307bf.chunk.js.map"
+    "main.css": "/static/css/main.52a55932.css",
+    "main.js": "/static/js/main.770f2e03.js",
+    "static/js/488.338307bf.chunk.js": "/static/js/488.338307bf.chunk.js",
+    "index.html": "/index.html",
+    "main.52a55932.css.map": "/static/css/main.52a55932.css.map",
+    "main.770f2e03.js.map": "/static/js/main.770f2e03.js.map",
+    "488.338307bf.chunk.js.map": "/static/js/488.338307bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52a55932.css",
-    "static/js/main.de12ea3f.js"
+    "static/js/main.770f2e03.js"
   ]
 }
